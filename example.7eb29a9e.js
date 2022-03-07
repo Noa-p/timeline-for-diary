@@ -10081,4 +10081,4 @@ var App = function App() {
 ReactDOM.render(React.createElement(App, null), document.getElementById('root'));
 var templateObject_1, templateObject_2, templateObject_3, templateObject_4, templateObject_5, templateObject_6, templateObject_7;
 },{"react-app-polyfill/ie11":"lczo","react":"1n8/","react-dom":"wLSN","styled-components":"OuU+","../.":"Dxxj","../dist/react-easy-popup.min.css":"s1dS"}]},{},["zo2T"], null)
-//# sourceMappingURL=https://github.com/Noa-p/timeline-for-diary/example.7eb29a9e.js.map
+//# sourceMappingURL=https://noa-p.github.io/timeline-for-diary/example.7eb29a9e.js.map
